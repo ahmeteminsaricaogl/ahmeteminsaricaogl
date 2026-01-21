@@ -15,26 +15,20 @@ I enjoy transforming raw data into **actionable insights**, building **scalable 
 
 ## 🧠 What I Do
 
-```python
-ahmet = {
-    "roles": [
-        "Data Scientist",
-        "Data Engineer",
-        "Analytics Instructor"
-    ],
-    "domains": [
-        "Credit Risk & PD Modeling",
-        "Fraud Detection",
-        "Customer Segmentation",
-        "CRM & Behavioral Analytics"
-    ],
-    "tools": [
-        "Python", "SQL", "R", "SAS", "Spark",
-        "Databricks", "Airflow", "Talend",
-        "Power BI", "Tableau", "Looker"
-    ],
-    "cloud": [
-        "Azure", "GCP"
-    ]
-}
-```
+
+## 💼 Professional Experience
+
+
+## 🎓 Education
+
+## 📜 Publications & Certifications,
+
+## 🛠️ Tech Stack
+
+## 📫 Contact Me
+
+* 📧 Email: ahmeteminsaricaoglu@gmail.com
+
+* 💼 LinkedIn: linkedin.com/in/ahmeteminsaricaoglu
+
+* Medium: https://medium.com/@ahmeteminsaricaoglu
