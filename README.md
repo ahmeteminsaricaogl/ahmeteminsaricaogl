@@ -22,6 +22,40 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 
 ## 💼 Professional Experience
 
+### 🏦 Anadolubank — Data Scientist  
+*Apr 2025 – Present | Istanbul, Turkey*
+- Working on data science and machine learning projects within the banking domain  
+- Developing **credit risk and Probability of Default (PD) models** and  **fraud detection models** 
+- Performing feature engineering, model development, and evaluation using **Python, SAS, and SQL**  
+- Supporting end-to-end analytical workflows from data preparation to model deployment and monitoring  
+
+
+---
+
+### 🎓 GOIT — Part-time Data Analytics Instructor  
+*Oct 2024 – Jun 2025 | Istanbul, Turkey*
+- Delivering hands-on training on data analytics topics including SQL, Python, Power BI, Tableau, and Google Analytics  
+- Guiding learners through real-world projects and case studies  
+- Supporting students in developing practical analytical thinking and problem-solving skills  
+
+---
+
+### 🤖 Afiniti — Data Engineer & Data Analyst (Applied AI)  
+*May 2021 – Mar 2025 | Istanbul, Turkey*
+- Built and delivered **end-to-end data analytics and AI solutions** for telecom, banking, and insurance clients  
+- Designed and maintained ETL pipelines, analytical datasets, and dashboards  
+- Contributed to machine learning–based optimization solutions and large-scale data processing  
+- Worked with technologies including SQL, Spark, Python, R, Databricks, Airflow, Talend. 
+
+---
+
+### 🏦 Garanti BBVA Technology — Data / Business Analyst  
+*Feb 2019 – Apr 2021 | Istanbul, Turkey*
+- Worked on data-driven projects within the banking sector  
+- Supported process optimization and operational analytics initiatives  
+- Developed reports and dashboards using SQL and OBIEE  
+- Participated in end-to-end project lifecycles from analysis to testing  
+
 
 ## 🎓 Education
 
