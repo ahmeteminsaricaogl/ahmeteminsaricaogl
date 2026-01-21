@@ -28,7 +28,5 @@ I enjoy transforming raw data into **actionable insights**, building **scalable 
 ## 📫 Contact Me
 
 * 📧 Email: ahmeteminsaricaoglu@gmail.com
-
 * 💼 LinkedIn: linkedin.com/in/ahmeteminsaricaoglu
-
 * Medium: https://medium.com/@ahmeteminsaricaoglu
