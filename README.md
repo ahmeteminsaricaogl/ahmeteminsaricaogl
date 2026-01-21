@@ -26,7 +26,7 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 
 ## 💼 Professional Experience
 
-### 🏦 Anadolubank — Data Scientist  
+### Anadolubank — Data Scientist  
 *Apr 2025 – Present | Istanbul, Turkey*
 - Working on data science and machine learning projects within the banking domain  
 - Developing **credit risk and Probability of Default (PD) models** and  **fraud detection models** 
@@ -36,7 +36,7 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 
 ---
 
-### 🎓 GOIT — Part-time Data Analytics Instructor  
+### GOIT — Part-time Data Analytics Instructor  
 *Oct 2024 – Jun 2025 | Istanbul, Turkey*
 - Delivering hands-on training on data analytics topics including SQL, Python, Power BI, Tableau, and Google Analytics  
 - Guiding learners through real-world projects and case studies  
@@ -44,7 +44,7 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 
 ---
 
-### 🤖 Afiniti — Data Engineer & Data Analyst (Applied AI)  
+### Afiniti — Data Engineer & Data Analyst (Applied AI)  
 *May 2021 – Mar 2025 | Istanbul, Turkey*
 - Built and delivered **end-to-end data analytics and AI solutions** for telecom, banking, and insurance clients  
 - Designed and maintained ETL pipelines, analytical datasets, and dashboards  
@@ -53,7 +53,7 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 
 ---
 
-### 🏦 Garanti BBVA Technology — Data / Business Analyst  
+### Garanti BBVA Technology — Data / Business Analyst  
 *Feb 2019 – Apr 2021 | Istanbul, Turkey*
 - Worked on data-driven projects within the banking sector  
 - Supported process optimization and operational analytics initiatives  
