@@ -27,8 +27,8 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 - Working on data science and machine learning projects within the banking domain  
 - Developing **credit risk and Probability of Default (PD) models** and  **fraud detection models** 
 - Performing feature engineering, model development, and evaluation using **Python, SAS, and SQL**  
-- Supporting end-to-end analytical workflows from data preparation to model deployment and monitoring  
-
+- Supporting end-to-end analytical workflows from data preparation to model deployment and monitoring
+- Building **analytical reports and dashboards** to support monitoring, insights, and data-driven decision making  
 
 ---
 
