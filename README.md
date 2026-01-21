@@ -28,7 +28,14 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 - **MSc, Big Data Analytics** — MEF University  
 - **BSc, Management Engineering** — Istanbul Technical University
 
-## 📜 Publications & Certifications,
+## 📜 Publications & Certifications
+
+- **Prediction of Turkish Super League Match Results Using Supervised Machine Learning Techniques**  
+  Published in *Intelligent and Fuzzy Techniques in Big Data Analytics and Decision Making*
+- **International Conference on Intelligent and Fuzzy Systems (INFUS 2019)**  
+  Speaker — Istanbul, Turkey
+- **Microsoft Azure DP-900 — Azure Data Fundamentals**
+- **YDS: 80** 
 
 ## 🛠️ Tech Stack
 
