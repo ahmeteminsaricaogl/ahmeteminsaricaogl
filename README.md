@@ -1,15 +1,16 @@
 # Hi 👋 I'm Ahmet Emin Sarıcaoğlu  
 
-🎯 **Data Scientist | Data Engineer | Analytics Instructor**  
+🎯 **Data Scientist | Data Engineer**  
 📍 Istanbul, Turkey  
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a data professional with strong experience in **banking, telecom, and applied AI projects**, specializing in **credit risk, fraud detection, customer analytics, and end-to-end data pipelines**.
+I am a data professional with experience across **data science, data engineering, and machine learning**, working on **end-to-end data analytics solutions** from data ingestion and modeling to analysis, visualization, and decision support.
 
-I enjoy transforming raw data into **actionable insights**, building **scalable analytics solutions**, and sharing knowledge through **teaching and mentoring**.
+I enjoy transforming raw and complex data into **meaningful insights**, building **scalable and reliable data products**, and continuously improving analytical workflows. Alongside my industry work, I am also involved in **teaching and mentoring**, helping others develop practical data analytics and data science skills.
+
 
 ---
 
