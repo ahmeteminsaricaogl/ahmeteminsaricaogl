@@ -25,6 +25,9 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 
 ## 🎓 Education
 
+- **MSc, Big Data Analytics** — MEF University  
+- **BSc, Management Engineering** — Istanbul Technical University
+
 ## 📜 Publications & Certifications,
 
 ## 🛠️ Tech Stack
