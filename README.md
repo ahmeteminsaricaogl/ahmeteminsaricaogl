@@ -13,11 +13,15 @@ I have worked across multiple industries including **banking, technology, and te
 
 Alongside my industry work, I am actively involved in **teaching and mentoring**, sharing practical knowledge in data analytics and data science.
 
-
-
 ---
 
 ## 🧠 What I Do
+
+- Design and deliver **end-to-end data analytics and machine learning solutions**
+- Work across **data science, data engineering, and analytics** use cases
+- Build data pipelines, analytical datasets, models, and dashboards
+- Transform complex data into **actionable insights** for decision-making
+- Share knowledge through **teaching, mentoring, and training**
 
 
 ## 💼 Professional Experience
