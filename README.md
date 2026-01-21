@@ -32,6 +32,28 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 
 ## 🛠️ Tech Stack
 
+### Programming & Query Languages
+- Python
+- SQL
+- R
+- SAS
+- Office Programs
+
+### Data Engineering & Big Data
+- Apache Spark, Databricks  
+- ETL & Orchestration: Airflow, Talend
+
+### Machine Learning & Analytics
+- Scikit-learn, XGBoost  
+- Feature engineering, model development & evaluation
+
+### BI & Data Visualization
+- Power BI, Tableau, Looker, OBIEE, Streamlit
+
+### Cloud & Platforms
+- Azure (Data Factory, Synapse Analytics, Fabric)
+- Databricks
+
 ## 📫 Contact Me
 
 * Email: ahmeteminsaricaoglu@gmail.com
