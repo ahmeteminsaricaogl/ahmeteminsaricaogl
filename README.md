@@ -97,9 +97,9 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 
 ## 🎯 Beyond Work
 
-I play **football** and have experience with my **university football team** as well as various other teams.  
-I enjoy **biking**, **hiking**, and **skiing**.  
-I also enjoy **traveling** and discovering new places and cultures.
+- Playing **football** with my **university team** and various other teams, I also enjoy **biking**, **camping**, and **skiing**.  
+- I enjoy **traveling** and discovering new places and cultures.
+
 
 
 
