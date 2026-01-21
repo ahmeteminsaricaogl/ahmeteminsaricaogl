@@ -33,11 +33,7 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 ## 🛠️ Tech Stack
 
 ### Programming & Query Languages
-- Python
-- SQL
-- R
-- SAS
-- Office Programs
+- Python, SQL, R, SAS, Office Programs
 
 ### Data Engineering & Big Data
 - Apache Spark, Databricks  
