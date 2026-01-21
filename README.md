@@ -106,5 +106,6 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 ## 📫 Contact Me
 
 * Email: ahmeteminsaricaoglu@gmail.com
-* Medium: https://medium.com/@ahmeteminsaricaoglu
 * LinkedIn: https://www.linkedin.com/in/ahmeteminsaricaoglu/
+* Medium: https://medium.com/@ahmeteminsaricaoglu
+* Phone: +90 539 935 0150
