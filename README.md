@@ -95,6 +95,14 @@ Alongside my industry work, I am actively involved in **teaching and mentoring**
 - Azure (Data Factory, Synapse Analytics, Fabric)
 - Databricks
 
+## 🎯 Beyond Work
+
+I play **football** and have experience with my **university football team** as well as various other teams.  
+I enjoy **biking**, **hiking**, and **skiing**.  
+I also enjoy **traveling** and discovering new places and cultures.
+
+
+
 ## 📫 Contact Me
 
 * Email: ahmeteminsaricaoglu@gmail.com
